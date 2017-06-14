@@ -1,5 +1,7 @@
 # Probot: Linter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/probot/linter.svg)](https://greenkeeper.io/)
+
 > a GitHub Integration built with [probot](https://github.com/probot/probot) that lints and fixes code in Pull Requests.
 
 ## Setup
